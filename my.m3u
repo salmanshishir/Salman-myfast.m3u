@@ -36,6 +36,7 @@ https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Qk8wWQU1VWU/YP1Sr0l8utI/AAAAAAAABC8/9fMPw3r7sFEl9ljo6Oj8RJ39R1OS1mCJACLcBGAsYHQ/s0/kk%2B%25281%2529.png" group-title="Salman", Nan TV
 http://live.flixhub.net/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Qed4gAwjQbg/YOwjki37o7I/AAAAAAAAAw4/ia4GJiLzkTEQi0WnbvufqHTT9aoc2cmqQCLcBGAsYHQ/s0/1%2B%25281%2529.png" group-title="Salman", Nan TV
+
 http://live.flixhub.net/hls/sonymax.m3u8
 
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/kazitvsp1/image/upload/v1629711972/yk6t1jyj5mdficx8z1sd.png" group-title="Salman", Nan TV
@@ -44,4 +45,5 @@ https://kaziemamulemu.shortcm.li/kazitv/nantv.m3u8
 https://kaziemamulemu.shortcm.li/kazitv/nantv.m3u8
 #EXTINF:-1 tvg-logo="https://res.cloudinary.com/kazitvsp1/image/upload/v1629711972/yk6t1jyj5mdficx8z1sd.png" group-title="Salman", Nan TV
 https://kaziemamulemu.shortcm.li/kazitv/nantv.m3u8
+EXTINF:-1 tvg-logo="https://pcdn1.jagobd.com/images/s-1mhi41641370862511.jpg
 http://live.priyoiptv.com:1932/priyoiptv/musiccipl.stream/chunks.m3u8
